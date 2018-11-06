@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Maha Manai</title>
+    <link>https://mahamanai.github.io/home/</link>
+    <description>Recent content in Homes on Maha Manai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://mahamanai.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mahamanai.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://mahamanai.github.io/home/about/</guid>
+      <description>About me I am a PhD candidate from the University of Lausanne.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://mahamanai.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://mahamanai.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://mahamanai.github.io/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://mahamanai.github.io/home/cv/</guid>
+      <description>Download my CV as a pdf.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://mahamanai.github.io/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://mahamanai.github.io/home/research/</guid>
+      <description>Working Paper  Risk and Rationality: The Relative Importance of Probability Weighting and Choice Set Dependence (with Adrian Bruhin and Luis Santos-Pinto)   
+ Work in progress  Unemployment Insurance Duration and Subjective Health (with Rafael Lalive) Schooling Choices and Labor Market Outcomes    
+ Book Chapter  Lalive, Rafael, Maha Manai, and Alois Stutzer. &amp;ldquo;Gender Differences in Well-Being and Equal Rights.&amp;rdquo; Encyclopedia of Quality of Life and Well-Being Research.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://mahamanai.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://mahamanai.github.io/home/teaching/</guid>
+      <description> Guest Lecturer  Microeconomics (Spring 2014-2016) Public Finance (Fall 2016 and Fall 2018)   
+ Teaching assistant  Microeconomics (Spring 2014-2019) Public Finance (Fall 2016-2018) Statistics and Econometrics (Fall 2017) Applied Econometrics (Spring 2014) Empirical Methods (Spring 2013)   </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mahamanai.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://mahamanai.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
