@@ -228,6 +228,81 @@
     "type": "unused"
   },
   {
+    "authors": [
+      "R Lalive",
+      "M Manai"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1538344800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1538344800,
+    "objectID": "9e40c18c9a475924257a2f5ffadba041",
+    "permalink": "https://mahamanai.github.io/publication/ui-health/",
+    "publishdate": "2018-10-01T00:00:00+02:00",
+    "relpermalink": "/publication/ui-health/",
+    "section": "publication",
+    "summary": "",
+    "tags": [
+      "survey data",
+      "fuzzy differences-in-differences"
+    ],
+    "title": "Unemployment Insurance Duration and Subjective Health",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "A Bruhin",
+      "M Manai",
+      "L Santos-Pinto"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1532296800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1532296800,
+    "objectID": "ca45b987eb89f65b086c409d8b8e3b2d",
+    "permalink": "https://mahamanai.github.io/publication/risk-rationality/",
+    "publishdate": "2018-07-23T00:00:00+02:00",
+    "relpermalink": "/publication/risk-rationality/",
+    "section": "publication",
+    "summary": "We analyze the relative importance of probability weighting and choice set dependence in describing risky choices both non-parametrically and with a structural model. Our experimental design uses binary choices between lotteries that may trigger Allais Paradoxes. We change the choice set by manipulating the correlation structure of the lotteries’ payoffs while keeping their marginal distributions constant. This allows us to discriminate between probability weighting and choice set dependence. There are three main results. First, probability weighting and choice set dependence both play a role in describing aggregate choices. Second, the structural model uncovers substantial individual heterogeneity which can be parsimoniously characterized by three types: 38% of subjects engage primarily in probability weighting, 34% are influenced predominantly by choice set dependence, and 28% are mostly rational. Third, the classification of subjects into types predicts preference reversals out-of-sample. These results may not only further our understanding of choice under risk but may also prove valuable for describing the behavior of consumers, investors, and judges.",
+    "tags": [
+      "lab experiment",
+      "finite mixture model"
+    ],
+    "title": "Risk and Rationality: The Relative Weight of Probability Weighting and Choice Set Dependence",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "M Manai"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1409522400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1409522400,
+    "objectID": "9538a7e4c3e069e9e1f589ebd8827e7a",
+    "permalink": "https://mahamanai.github.io/publication/education-labor/",
+    "publishdate": "2014-09-01T00:00:00+02:00",
+    "relpermalink": "/publication/education-labor/",
+    "section": "publication",
+    "summary": "In Tunisia, high school graduates are allocated to university programs through a centralized mechanism (a version of the Deferred Acceptance algorithm). Using a regression discontinuity design at the admission score cut-offs, I study the effect of going to a higher ranked program in terms of peer quality on the employability of the student. For the measure of employability, I use data on active labor market programs financed by the Ministry of Vocational Training and Employment and administered by the PEA to provide a measure of the training costs incurred by the government to improve the employability of the university graduates who lack the labor market skills needed to be directly employable after university graduation. Therefore, I expect that going to a lower ranked university program decreases the employability of the job seeker and therefore she would require more training before being able to enter the labor market.",
+    "tags": [
+      "administrative data",
+      "regression discontinuity"
+    ],
+    "title": "Schooling Choices and Labor Market Outcomes",
+    "type": "publication"
+  },
+  {
     "authors": null,
     "categories": null,
     "content": " with Adrian Bruhin and Luis Santos-Pinto Abstract We analyze the relative importance of probability weighting and choice set dependence in describing risky choices both non-parametrically and with a structural model. Our experimental design uses binary choices between lotteries that may trigger Allais Paradoxes. We change the choice set by manipulating the correlation structure of the lotteries’ payoffs while keeping their marginal distributions constant. This allows us to discriminate between probability weighting and choice set dependence. There are three main results. First, probability weighting and choice set dependence both play a role in describing aggregate choices. Second, the structural model uncovers substantial individual heterogeneity which can be parsimoniously characterized by three types: 38% of subjects engage primarily in probability weighting, 34% are influenced predominantly by choice set dependence, and 28% are mostly rational. Third, the classification of subjects into types predicts preference reversals out-of-sample. These results may not only further our understanding of choice under risk but may also prove valuable for describing the behavior of consumers, investors, and judges.\n",
