@@ -41,6 +41,25 @@
     "authors": null,
     "categories": null,
     "content": "",
+    "date": 1505858400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1505858400,
+    "objectID": "00cef76bb244489c77b374b35d4db0d1",
+    "permalink": "https://mahamanai.github.io/unused/skills/",
+    "publishdate": "2017-09-20T00:00:00+02:00",
+    "relpermalink": "/unused/skills/",
+    "section": "unused",
+    "summary": "",
+    "tags": null,
+    "title": "Skills",
+    "type": "unused"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
     "date": -62135596800,
     "expirydate": -62135596800,
     "kind": "page",
@@ -233,7 +252,7 @@
       "M Manai"
     ],
     "categories": null,
-    "content": "",
+    "content": " De Chaisemartin, Clément, and Xavier D’HaultfŒuille. \u0026quot;Fuzzy differences-in- differences.\u0026quot; The Review of Economic Studies 85.2 (2017): 999-1028. \n Kahneman, Daniel, et al. \u0026quot;Would you be happier if you were richer? A focusing illusion.\u0026quot; science 312.5782 (2006): 1908-1910. \n",
     "date": 1538344800,
     "expirydate": -62135596800,
     "kind": "page",
@@ -244,13 +263,39 @@
     "publishdate": "2018-10-01T00:00:00+02:00",
     "relpermalink": "/publication/ui-health/",
     "section": "publication",
+    "summary": "We exploit large changes in the unemployment insurance (UI) maximum duration in the United States to study the effect of having UI for a longer period on self-reported general health and number of days of bad mental health. Using two complementary approaches, a regression discontinuity design at the time of the change in potential UI duration and a fuzzy differences-in-differences approach introduced by de Chaisemartin and D’Haultfœuille (2017), we find that while the most advertised and important changes in potential UI duration have a large negative but noisy effect on the number of bad mental health days, it does not have a significant effect on self-reported general health. Since we interpret the general health measure as a health report in real time and the mental health measure as a retrospective global evaluation of one’s health, we expect larger and more important effects of UI duration on mental health compared to general health (Kahneman et al., 2006).",
+    "tags": [
+      "survey data",
+      "fuzzy differences-in-differences",
+      "regression discontinuity"
+    ],
+    "title": "Unemployment Insurance Duration and Subjective Health",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "R Lalive",
+      "M Manai"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1538344800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1538344800,
+    "objectID": "c30048ac1adba0b37bf8840d1186b4db",
+    "permalink": "https://mahamanai.github.io/unused/index_old/",
+    "publishdate": "2018-10-01T00:00:00+02:00",
+    "relpermalink": "/unused/index_old/",
+    "section": "unused",
     "summary": "",
     "tags": [
       "survey data",
       "fuzzy differences-in-differences"
     ],
     "title": "Unemployment Insurance Duration and Subjective Health",
-    "type": "publication"
+    "type": "unused"
   },
   {
     "authors": [
@@ -295,7 +340,7 @@
     "publishdate": "2014-09-01T00:00:00+02:00",
     "relpermalink": "/publication/education-labor/",
     "section": "publication",
-    "summary": "In Tunisia, high school graduates are allocated to university programs through a centralized mechanism (a version of the Deferred Acceptance algorithm). Using a regression discontinuity design at the admission score cut-offs, I study the effect of going to a higher ranked program in terms of peer quality on the employability of the student. For the measure of employability, I use data on active labor market programs financed by the Ministry of Vocational Training and Employment and administered by the PEA to provide a measure of the training costs incurred by the government to improve the employability of the university graduates who lack the labor market skills needed to be directly employable after university graduation. Therefore, I expect that going to a lower ranked university program decreases the employability of the job seeker and therefore she would require more training before being able to enter the labor market.",
+    "summary": "In Tunisia, high school graduates are allocated to university programs through a centralized mechanism (a version of the Deferred Acceptance algorithm). Using a regression discontinuity design at the admission score cut-offs, I study the effect of going to a higher ranked program in terms of peer quality on the use of government-assisted job search. My initial findings point out that education has not effect on the use of government-assisted job search which allows me to argue that there is no selection on the education level when it comes to using the services of the public employment agency.",
     "tags": [
       "administrative data",
       "regression discontinuity"
