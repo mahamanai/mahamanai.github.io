@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://mahamanai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Structural model</title>
       <link>https://mahamanai.github.io/tags/structural-model/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
       
       <guid>https://mahamanai.github.io/tags/structural-model/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>administrative data</title>
       <link>https://mahamanai.github.io/tags/administrative-data/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
       
       <guid>https://mahamanai.github.io/tags/administrative-data/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>finite mixture model</title>
       <link>https://mahamanai.github.io/tags/finite-mixture-model/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
       
       <guid>https://mahamanai.github.io/tags/finite-mixture-model/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>fuzzy differences-in-differences</title>
       <link>https://mahamanai.github.io/tags/fuzzy-differences-in-differences/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
       
       <guid>https://mahamanai.github.io/tags/fuzzy-differences-in-differences/</guid>
       <description></description>
@@ -51,16 +51,25 @@
     <item>
       <title>lab experiment</title>
       <link>https://mahamanai.github.io/tags/lab-experiment/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
       
       <guid>https://mahamanai.github.io/tags/lab-experiment/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>multiple linear regression</title>
+      <link>https://mahamanai.github.io/tags/multiple-linear-regression/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://mahamanai.github.io/tags/multiple-linear-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>regression discontinuity</title>
       <link>https://mahamanai.github.io/tags/regression-discontinuity/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
       
       <guid>https://mahamanai.github.io/tags/regression-discontinuity/</guid>
       <description></description>
@@ -69,7 +78,7 @@
     <item>
       <title>survey data</title>
       <link>https://mahamanai.github.io/tags/survey-data/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
       
       <guid>https://mahamanai.github.io/tags/survey-data/</guid>
       <description></description>

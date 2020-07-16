@@ -15,7 +15,12 @@
   
     
   
-  <meta name="description" content="During the Great Recession, the United States introduced a temporary program that allows to extend the duration of unemployment insurance. In this paper, we ask if these extensions contributed to better health or perception of one’s health. To answer this question, we differentiate between two health measures: self-reported general health which is highly correlated with the real health status and mental health which is a subjective and retrospective evaluation of one’s mental health. On the one hand, estimates from two different models suggest that extending benefits only enhance mental health but this result is mostly mitigated by low precision. On the other hand, cutting all income assistance at once at the expiry of the program affected negatively the health of long term unemployed by 14%. In this analysis, we distinguish between two types of extensions in two different models. The first model consists on a regression discountinuity approach where time is the running variable and the treatment corresponds to the introduction/expiry of the extended benefits policy in all United States. Whilst the second model, a difference-in-differences framework, focuses on the effect of conditional treatment in the form of additional weeks of coverage in certain states that reach a pre-determined high level of unemployment.">
+  <meta name="description" content="During the Great Recession, the United States introduced a temporary program that allowed to extend the duration of unemployment benefits. I ask if these extensions contributed to better health. To answer this question, I differentiate between two health measures: self-reported general health which is highly correlated with the real health status and mental health which is a subjective and retrospective evaluation of one’s mental health. 
+
+I find that both the introduction and expiry of this program had a negative effect on the general health of long term unemployed job seekers, i.e., those looking for work for more than a year. While the negative health response to the program’s expiry is a response to a cut of benefits, the introduction only represents news on benefit extensions and since information on eligibility of the long term unemployed might have not been clear to them yet, their negative health response could be interpreted as an externality. Mental health is not affected by the introduction and expiry of the program. 
+
+In addition, I design a strategy to assess the effects of the extensions triggered by state level unemployment. These state level changes in benefits improve mental health during August 2008 to December 2008, but not thereafter.
+">
 
   
   <link rel="alternate" hreflang="en-us" href="https://mahamanai.github.io/publication/ui-health/">
@@ -32,7 +37,7 @@
   
   
   
-  <meta name="theme-color" content="#3f51b5">
+  <meta name="theme-color" content="#EF525B">
   
 
   
@@ -92,17 +97,22 @@
   
   <meta property="og:site_name" content="Maha Manai">
   <meta property="og:url" content="https://mahamanai.github.io/publication/ui-health/">
-  <meta property="og:title" content="Unemployment Insurance Duration and Subjective Health | Maha Manai">
-  <meta property="og:description" content="During the Great Recession, the United States introduced a temporary program that allows to extend the duration of unemployment insurance. In this paper, we ask if these extensions contributed to better health or perception of one’s health. To answer this question, we differentiate between two health measures: self-reported general health which is highly correlated with the real health status and mental health which is a subjective and retrospective evaluation of one’s mental health. On the one hand, estimates from two different models suggest that extending benefits only enhance mental health but this result is mostly mitigated by low precision. On the other hand, cutting all income assistance at once at the expiry of the program affected negatively the health of long term unemployed by 14%. In this analysis, we distinguish between two types of extensions in two different models. The first model consists on a regression discountinuity approach where time is the running variable and the treatment corresponds to the introduction/expiry of the extended benefits policy in all United States. Whilst the second model, a difference-in-differences framework, focuses on the effect of conditional treatment in the form of additional weeks of coverage in certain states that reach a pre-determined high level of unemployment.">
+  <meta property="og:title" content="Do extended unemployment benefits duration improve individual health? | Maha Manai">
+  <meta property="og:description" content="During the Great Recession, the United States introduced a temporary program that allowed to extend the duration of unemployment benefits. I ask if these extensions contributed to better health. To answer this question, I differentiate between two health measures: self-reported general health which is highly correlated with the real health status and mental health which is a subjective and retrospective evaluation of one’s mental health. 
+
+I find that both the introduction and expiry of this program had a negative effect on the general health of long term unemployed job seekers, i.e., those looking for work for more than a year. While the negative health response to the program’s expiry is a response to a cut of benefits, the introduction only represents news on benefit extensions and since information on eligibility of the long term unemployed might have not been clear to them yet, their negative health response could be interpreted as an externality. Mental health is not affected by the introduction and expiry of the program. 
+
+In addition, I design a strategy to assess the effects of the extensions triggered by state level unemployment. These state level changes in benefits improve mental health during August 2008 to December 2008, but not thereafter.
+">
   
   
     
   <meta property="og:image" content="https://mahamanai.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-10-01T00:00:00&#43;02:00">
+  <meta property="article:published_time" content="2020-06-01T00:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2018-10-01T00:00:00&#43;02:00">
+  <meta property="article:modified_time" content="2020-06-01T00:00:00&#43;02:00">
   
 
   
@@ -114,12 +124,12 @@
     window.cookieconsent.initialise({
       "palette": {
         "popup": {
-          "background": "#3f51b5",
-          "text": "#fff"
+          "background": "#EF525B",
+          "text": "#EAE7D6"
         },
         "button": {
-          "background": "#fff",
-          "text": "#3f51b5"
+          "background": "#EAE7D6",
+          "text": "#EF525B"
         }
       },
       "theme": "classic",
@@ -135,7 +145,7 @@
 
   
 
-  <title>Unemployment Insurance Duration and Subjective Health | Maha Manai</title>
+  <title>Do extended unemployment benefits duration improve individual health? | Maha Manai</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -304,7 +314,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Unemployment Insurance Duration and Subjective Health</h1>
+  <h1 itemprop="name">Do extended unemployment benefits duration improve individual health?</h1>
 
   
 
@@ -318,9 +328,6 @@
   
   <div>
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">R Lalive</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">M Manai</span>
     </span>
     
@@ -329,8 +336,8 @@
 
   <span class="article-date">
     
-    <meta content="2018-10-01 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-    <time datetime="2018-10-01 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+    <meta content="2020-06-01 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2020-06-01 00:00:00 &#43;0200 CEST" itemprop="dateModified">
       
     </time>
   </span>
@@ -383,6 +390,13 @@
 
 
   
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://drive.google.com/file/d/1MHR5HoEZtFL8K-jo0ikwHNO1HGjQs_hZ/view?usp=sharing" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -394,8 +408,7 @@
 
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://drive.switch.ch/index.php/s/ip9SBbhIRIMXTre" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://drive.google.com/file/d/1HppzqFE80GBMI4V2IRZLRVFxjy3fOAf4/view?usp=sharing" target="_blank" rel="noopener">
   Poster
 </a>
 
@@ -419,7 +432,12 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">During the Great Recession, the United States introduced a temporary program that allows to extend the duration of unemployment insurance. In this paper, we ask if these extensions contributed to better health or perception of one’s health. To answer this question, we differentiate between two health measures: self-reported general health which is highly correlated with the real health status and mental health which is a subjective and retrospective evaluation of one’s mental health. On the one hand, estimates from two different models suggest that extending benefits only enhance mental health but this result is mostly mitigated by low precision. On the other hand, cutting all income assistance at once at the expiry of the program affected negatively the health of long term unemployed by 14%. In this analysis, we distinguish between two types of extensions in two different models. The first model consists on a regression discountinuity approach where time is the running variable and the treatment corresponds to the introduction/expiry of the extended benefits policy in all United States. Whilst the second model, a difference-in-differences framework, focuses on the effect of conditional treatment in the form of additional weeks of coverage in certain states that reach a pre-determined high level of unemployment.</p>
+    <p class="pub-abstract" itemprop="text"><p>During the Great Recession, the United States introduced a temporary program that allowed to extend the duration of unemployment benefits. I ask if these extensions contributed to better health. To answer this question, I differentiate between two health measures: self-reported general health which is highly correlated with the real health status and mental health which is a subjective and retrospective evaluation of one’s mental health.</p>
+
+<p>I find that both the introduction and expiry of this program had a negative effect on the general health of long term unemployed job seekers, i.e., those looking for work for more than a year. While the negative health response to the program’s expiry is a response to a cut of benefits, the introduction only represents news on benefit extensions and since information on eligibility of the long term unemployed might have not been clear to them yet, their negative health response could be interpreted as an externality. Mental health is not affected by the introduction and expiry of the program.</p>
+
+<p>In addition, I design a strategy to assess the effects of the extensions triggered by state level unemployment. These state level changes in benefits improve mental health during August 2008 to December 2008, but not thereafter.</p>
+</p>
     
 
     
@@ -432,7 +450,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            October, 2018
+            June, 2020
           </div>
         </div>
       </div>
@@ -453,7 +471,7 @@
   
   <a class="badge badge-light" href="/tags/fuzzy-differences-in-differences/">fuzzy differences-in-differences</a>
   
-  <a class="badge badge-light" href="/tags/regression-discontinuity/">regression discontinuity</a>
+  <a class="badge badge-light" href="/tags/multiple-linear-regression/">multiple linear regression</a>
   
 </div>
 

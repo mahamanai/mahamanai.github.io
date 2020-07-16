@@ -41,19 +41,19 @@
     "authors": null,
     "categories": null,
     "content": "",
-    "date": 1505858400,
+    "date": 1461103200,
     "expirydate": -62135596800,
     "kind": "page",
     "lang": "en",
-    "lastmod": 1505858400,
-    "objectID": "00cef76bb244489c77b374b35d4db0d1",
-    "permalink": "https://mahamanai.github.io/unused/skills/",
-    "publishdate": "2017-09-20T00:00:00+02:00",
-    "relpermalink": "/unused/skills/",
+    "lastmod": 1461103200,
+    "objectID": "53e3b4443ad35d3341b9eb5f1755365b",
+    "permalink": "https://mahamanai.github.io/unused/posts/",
+    "publishdate": "2016-04-20T00:00:00+02:00",
+    "relpermalink": "/unused/posts/",
     "section": "unused",
     "summary": "",
     "tags": null,
-    "title": "Skills",
+    "title": "Recent Posts",
     "type": "unused"
   },
   {
@@ -154,25 +154,6 @@
   {
     "authors": null,
     "categories": null,
-    "content": "",
-    "date": 1461103200,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1461103200,
-    "objectID": "53e3b4443ad35d3341b9eb5f1755365b",
-    "permalink": "https://mahamanai.github.io/unused/posts/",
-    "publishdate": "2016-04-20T00:00:00+02:00",
-    "relpermalink": "/unused/posts/",
-    "section": "unused",
-    "summary": "",
-    "tags": null,
-    "title": "Recent Posts",
-    "type": "unused"
-  },
-  {
-    "authors": null,
-    "categories": null,
     "content": " Working Paper  ",
     "date": -62135596800,
     "expirydate": -62135596800,
@@ -248,28 +229,78 @@
   },
   {
     "authors": [
-      "R Lalive",
       "M Manai"
     ],
     "categories": null,
     "content": "",
-    "date": 1538344800,
+    "date": 1590962400,
     "expirydate": -62135596800,
     "kind": "page",
     "lang": "en",
-    "lastmod": 1538344800,
+    "lastmod": 1590962400,
     "objectID": "9e40c18c9a475924257a2f5ffadba041",
     "permalink": "https://mahamanai.github.io/publication/ui-health/",
-    "publishdate": "2018-10-01T00:00:00+02:00",
+    "publishdate": "2020-06-01T00:00:00+02:00",
     "relpermalink": "/publication/ui-health/",
     "section": "publication",
-    "summary": "During the Great Recession, the United States introduced a temporary program that allows to extend the duration of unemployment insurance. In this paper, we ask if these extensions contributed to better health or perception of one’s health. To answer this question, we differentiate between two health measures: self-reported general health which is highly correlated with the real health status and mental health which is a subjective and retrospective evaluation of one’s mental health. On the one hand, estimates from two different models suggest that extending benefits only enhance mental health but this result is mostly mitigated by low precision. On the other hand, cutting all income assistance at once at the expiry of the program affected negatively the health of long term unemployed by 14%. In this analysis, we distinguish between two types of extensions in two different models. The first model consists on a regression discountinuity approach where time is the running variable and the treatment corresponds to the introduction/expiry of the extended benefits policy in all United States. Whilst the second model, a difference-in-differences framework, focuses on the effect of conditional treatment in the form of additional weeks of coverage in certain states that reach a pre-determined high level of unemployment.",
+    "summary": "During the Great Recession, the United States introduced a temporary program that allowed to extend the duration of unemployment benefits. I ask if these extensions contributed to better health. To answer this question, I differentiate between two health measures: self-reported general health which is highly correlated with the real health status and mental health which is a subjective and retrospective evaluation of one’s mental health. \n\nI find that both the introduction and expiry of this program had a negative effect on the general health of long term unemployed job seekers, i.e., those looking for work for more than a year. While the negative health response to the program’s expiry is a response to a cut of benefits, the introduction only represents news on benefit extensions and since information on eligibility of the long term unemployed might have not been clear to them yet, their negative health response could be interpreted as an externality. Mental health is not affected by the introduction and expiry of the program. \n\nIn addition, I design a strategy to assess the effects of the extensions triggered by state level unemployment. These state level changes in benefits improve mental health during August 2008 to December 2008, but not thereafter.\n",
     "tags": [
       "survey data",
       "fuzzy differences-in-differences",
+      "multiple linear regression"
+    ],
+    "title": "Do extended unemployment benefits duration improve individual health?",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "M Manai"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1590962400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1590962400,
+    "objectID": "9538a7e4c3e069e9e1f589ebd8827e7a",
+    "permalink": "https://mahamanai.github.io/publication/education-labor/",
+    "publishdate": "2020-06-01T00:00:00+02:00",
+    "relpermalink": "/publication/education-labor/",
+    "section": "publication",
+    "summary": "I examine how university graduates use public employment services in Tunisia in terms of registration, internship programs participation and subsidies received. \n\nIn a context where students submit rank-ordered lists to indicate their preferences, I look at students in the fields of science, technology, engineering and mathematics (STEM) who pursue their studies in two different tracks with one being more selective in terms of peer quality and prestige. The selective track ranks high and attracts students with high admission scores, whereas the non-selective track ranks lower and has students with lower admissions scores. \n\nUsing a regression discontinuity design based on discontinuities in university admission scores, I find that getting into the selective track increases the likelihood of registration at the public employment agency after five years of university studies by 11 percentage points. \n\nAdditional suggestive evidence shows that attending the selective track decreases the participation in the active labor market policy internship programs by 15 percentage points but does not cost more in average subsidies paid relative to the regular track. This suggests that the labor market is unable to quickly absorb the most able university graduates.\n",
+    "tags": [
+      "administrative data",
       "regression discontinuity"
     ],
-    "title": "Unemployment Insurance Duration and Subjective Health",
+    "title": "Postgraduate education track choice and job search in a rigid labor market",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "A Bruhin",
+      "M Manai",
+      "L Santos-Pinto"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1584918000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1584918000,
+    "objectID": "ca45b987eb89f65b086c409d8b8e3b2d",
+    "permalink": "https://mahamanai.github.io/publication/risk-rationality/",
+    "publishdate": "2020-03-23T00:00:00+01:00",
+    "relpermalink": "/publication/risk-rationality/",
+    "section": "publication",
+    "summary": "The literature suggests that probability weighting and choice set dependence influence risky choices. However, their relative importance has not been tested jointly. We present a joint test that uses binary choices between lotteries provoking Common Consequence and Common Ratio Allais Paradoxes and manipulates their correlation structure. \n\nWe show non-parametrically that probability weighting and choice set dependence both play a role at describing aggregate choices. To parsimoniously account for heterogeneity, we also estimate a structural model using a finite mixture approach. The model uncovers substantial heterogeneity and classifies subjects into three types: 38% Prospect Theory types whose choices are predominantly driven by probability weighting, 34% Salience Theory types whose choices are predominantly driven by choice set dependence, and 28% Expected Utility Theory types. \n\nThe model predicts type-specific differences in the frequency of preference reversals out-of-sample, i.e., in choices with a different context than the ones used for estimating the model. Moreover, the out-of-sample predictions indicate that the choice context shapes the influence of choice set dependence.\n",
+    "tags": [
+      "lab experiment",
+      "finite mixture model",
+      "Structural model"
+    ],
+    "title": "Risk and Rationality: The relative weight of probability weighting and choice set dependence",
     "type": "publication"
   },
   {
@@ -298,60 +329,9 @@
     "type": "unused"
   },
   {
-    "authors": [
-      "A Bruhin",
-      "M Manai",
-      "L Santos-Pinto"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1532296800,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1532296800,
-    "objectID": "ca45b987eb89f65b086c409d8b8e3b2d",
-    "permalink": "https://mahamanai.github.io/publication/risk-rationality/",
-    "publishdate": "2018-07-23T00:00:00+02:00",
-    "relpermalink": "/publication/risk-rationality/",
-    "section": "publication",
-    "summary": "We analyze the relative importance of probability weighting and choice set dependence in describing risky choices both non-parametrically and with a structural model. Our experimental design uses binary choices between lotteries that may trigger Allais Paradoxes. We change the choice set by manipulating the correlation structure of the lotteries’ payoffs while keeping their marginal distributions constant. This allows us to discriminate between probability weighting and choice set dependence. There are three main results. First, probability weighting and choice set dependence both play a role in describing aggregate choices. Second, the structural model uncovers substantial individual heterogeneity which can be parsimoniously characterized by three types: 38% of subjects engage primarily in probability weighting, 34% are influenced predominantly by choice set dependence, and 28% are mostly rational. Third, the classification of subjects into types predicts preference reversals out-of-sample. These results may not only further our understanding of choice under risk but may also prove valuable for describing the behavior of consumers, investors, and judges.",
-    "tags": [
-      "lab experiment",
-      "finite mixture model",
-      "Structural model"
-    ],
-    "title": "Risk and Rationality: The Relative Weight of Probability Weighting and Choice Set Dependence",
-    "type": "publication"
-  },
-  {
-    "authors": [
-      "M Manai"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1409522400,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1409522400,
-    "objectID": "9538a7e4c3e069e9e1f589ebd8827e7a",
-    "permalink": "https://mahamanai.github.io/publication/education-labor/",
-    "publishdate": "2014-09-01T00:00:00+02:00",
-    "relpermalink": "/publication/education-labor/",
-    "section": "publication",
-    "summary": "In a rigid labor market unable to absorb the expanding university educated labor force under the free public education policy, the Tunisian government relies heavily on expensive active labor market policy tools to aid university graduates as they transition from school to work. In this paper, I examine the disconnect between higher education and employment in Tunisia. Using a regression discontinuity design based on discontinuities in university admission scores, I compare two groups of university students who chose similar fields but different study tracks where one is perceived as better and is preferred to the second by all the students in the study, thus creating a clear sorting in ability. I find that going to a more preferred university program, increases the likelihood of using government job search services by 11 percent but does not cost more in average subsidies paid. As one would expect that the least able group is more likely to struggle to find a first job independently and to use the offered services, this finding suggests that the inadequacy of the labor market leads the most able group to take longer to find a first job.",
-    "tags": [
-      "administrative data",
-      "regression discontinuity"
-    ],
-    "title": "Schooling Choices and Labor Market Outcomes",
-    "type": "publication"
-  },
-  {
     "authors": null,
     "categories": null,
-    "content": " with Adrian Bruhin and Luis Santos-Pinto Abstract We analyze the relative importance of probability weighting and choice set dependence in describing risky choices both non-parametrically and with a structural model. Our experimental design uses binary choices between lotteries that may trigger Allais Paradoxes. We change the choice set by manipulating the correlation structure of the lotteries’ payoffs while keeping their marginal distributions constant. This allows us to discriminate between probability weighting and choice set dependence. There are three main results. First, probability weighting and choice set dependence both play a role in describing aggregate choices. Second, the structural model uncovers substantial individual heterogeneity which can be parsimoniously characterized by three types: 38% of subjects engage primarily in probability weighting, 34% are influenced predominantly by choice set dependence, and 28% are mostly rational. Third, the classification of subjects into types predicts preference reversals out-of-sample. These results may not only further our understanding of choice under risk but may also prove valuable for describing the behavior of consumers, investors, and judges.\n",
+    "content": "blabla blabla\n",
     "date": -62135596800,
     "expirydate": -62135596800,
     "kind": "page",
@@ -362,9 +342,9 @@
     "publishdate": "0001-01-01T00:00:00Z",
     "relpermalink": "/post/abstract1/",
     "section": "post",
-    "summary": "with Adrian Bruhin and Luis Santos-Pinto Abstract We analyze the relative importance of probability weighting and choice set dependence in describing risky choices both non-parametrically and with a structural model. Our experimental design uses binary choices between lotteries that may trigger Allais Paradoxes. We change the choice set by manipulating the correlation structure of the lotteries’ payoffs while keeping their marginal distributions constant. This allows us to discriminate between probability weighting and choice set dependence.",
+    "summary": "blabla blabla",
     "tags": null,
-    "title": "Risk and Rationality: The Relative Importance of Probability Weighting and Choice Set Dependence",
+    "title": "Test Post",
     "type": "post"
   }
 ]

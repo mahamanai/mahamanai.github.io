@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>survey data on Maha Manai</title>
-    <link>https://mahamanai.github.io/tags/survey-data/</link>
-    <description>Recent content in survey data on Maha Manai</description>
+    <title>multiple linear regression on Maha Manai</title>
+    <link>https://mahamanai.github.io/tags/multiple-linear-regression/</link>
+    <description>Recent content in multiple linear regression on Maha Manai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://mahamanai.github.io/tags/survey-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mahamanai.github.io/tags/multiple-linear-regression/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
       
       <guid>https://mahamanai.github.io/publication/ui-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unemployment Insurance Duration and Subjective Health</title>
-      <link>https://mahamanai.github.io/unused/index_old/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://mahamanai.github.io/unused/index_old/</guid>
       <description></description>
     </item>
     
